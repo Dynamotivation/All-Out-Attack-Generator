@@ -18,3 +18,10 @@ If I forgot to credit you or made a mistake, please reach out to me at [contact.
 
 ## [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"
+
+# Optional downloadable content credits (Windows only)
+## [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+[FFmpeg Project](http://ffmpeg.org/) as found [here](https://github.com/Dynamotivation/FFmpeg)
+
+## [OpenH264 Binary License](https://www.openh264.org/BINARY_LICENSE.txt)
+[OpenH264](https://www.openh264.org/) by Cisco
