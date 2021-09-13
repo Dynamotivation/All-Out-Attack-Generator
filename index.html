@@ -36,9 +36,13 @@
                       image-rendering: optimizeSpeed;
                       -webkit-interpolation-mode: nearest-neighbor;
                       -ms-touch-action: none;
-                      margin: 0px;
-                      padding: 0px;
-                      border: 0px;
+                      padding-left: 0;
+                      padding-right: 0;
+                      margin-left: auto;
+                      margin-right: auto;
+                      display: block;
+                      height: 100%;
+                      width: 177.77vh;
             }
             :-webkit-full-screen #canvas {
                  width: 100%;
@@ -46,9 +50,11 @@
             }
             div.gm4html5_div_class
             {
-              margin: 0px;
-              padding: 0px;
-              border: 0px;
+             position: fixed;
+             left: 50%;
+             margin-left: calc(-177.77vh/2);
+             height: 100%;
+             width: 177.77vh;
             }
             /* START - Login Dialog Box */
             div.gm4html5_login
@@ -90,7 +96,7 @@
         </div>
 
         <!-- Run the game code -->
-        <script type="text/javascript" src="AllOutAttackGenerator/AllOutAttackGeneratorLatest.js?SFVZB=150514415"></script>
+        <script type="text/javascript" src="AllOutAttackGenerator/AllOutAttackGenerator.js?SFSZB=217281908"></script>
         <script>window.onload = GameMaker_Init;</script>
     </body>
 </html>
