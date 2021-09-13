@@ -2,9 +2,14 @@
 No source code is contained here, this repository only provides the download links to executables and required files (excluding FFmpeg and OpenH264) for Dynamotivation's "All-Out Attack Generator" and hosts the web version. Pick the appropriate download for your operating system from the releases section. Typically, the latest version is the best, unless marked as an alpha, beta or a pre-release. All older versions have means to update to the latest stable version. The release tagged with "update" should be ignored as it only contains the files used for updating existing installations automatically. Eventually the source code will be uploaded here too when it meets the desired quality.
 
 # Additional credits
-If I forgot to credit you or made a mistake, please reach out to me at [contact.dynamotivation@gmail.com](mailto:contact.dynamotivation@gmail.com)
+If I forgot to credit you or made a mistake, please reach out to me at [contact.dynamotivation@gmail.com](mailto:contact.dynamotivation@gmail.com).
 
-## [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
+# Inspiration & Assets
+### [MIT License](https://opensource.org/licenses/MIT)
+["Mix and Jam"'s All-Out Attack in Unity](https://github.com/mixandjam/Persona-AllOut)
+
+# Code & Extentions
+### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
 [Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond"\
 [Simple Color Picker](https://marketplace.yoyogames.com/assets/728/simple-color-picker) by "George"\
@@ -17,12 +22,12 @@ If I forgot to credit you or made a mistake, please reach out to me at [contact.
 [HTML5 Loading Spinner](https://marketplace.yoyogames.com/assets/630/html5-loading-spinner) by "Ogre Games Ltd."\
 [TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"
 
-## [MIT License](https://opensource.org/licenses/MIT)
+### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"
 
-# Optional downloadable content credits (Windows only)
-## [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+## Optional downloadable content credits (Windows only)
+### [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 [FFmpeg Project](http://ffmpeg.org/) as found [here](https://github.com/Dynamotivation/FFmpeg)
 
-## [OpenH264 Binary License](https://www.openh264.org/BINARY_LICENSE.txt)
+### [OpenH264 Binary License](https://www.openh264.org/BINARY_LICENSE.txt)
 [OpenH264](https://www.openh264.org/) by Cisco
