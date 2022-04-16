@@ -1,5 +1,5 @@
 # All-Out Attack Generator
-No source code is hosted here as of yet. This repository only provides the download links to executables and required files (excluding FFmpeg and OpenH264) for Dynamotivation's "All-Out Attack Generator". The browser version can be found [here]()!
+No source code is hosted here as of yet. This repository only provides the download links to executables and required files (excluding FFmpeg and OpenH264) for Dynamotivation's "All-Out Attack Generator". The browser version can be found [here](https://dynamotivation.github.io/All-Out-Attack-Generator-Web/)!
 Pick the appropriate download for your operating system from the releases section. Typically, the latest version is the best, unless marked as an alpha, beta or a pre-release. All older versions have means to update to the latest stable version. The release tagged with "update" should be ignored as it only contains the files used for updating existing installations automatically.
 Eventually the source code will be uploaded here too when it meets the desired quality and all license issues have been sorted out. No ETA available.
 
