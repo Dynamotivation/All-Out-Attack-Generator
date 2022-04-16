@@ -3,6 +3,8 @@ No source code is hosted here as of yet. This repository only provides the downl
 Pick the appropriate download for your operating system from the releases section. Typically, the latest version is the best, unless marked as an alpha, beta or a pre-release. All older versions have means to update to the latest stable version. The release tagged with "update" should be ignored as it only contains the files used for updating existing installations automatically.
 Eventually the source code will be uploaded here too when it meets the desired quality and all license issues have been sorted out. No ETA available.
 
+For faster responses, staying up to date and further discussion join the [Discord Server](https://discord.gg/bk8XdVMJUs)!
+
 # Additional credits
 If I forgot to credit you or made a mistake, please reach out to me at [contact.dynamotivation@gmail.com](mailto:contact.dynamotivation@gmail.com).
 
