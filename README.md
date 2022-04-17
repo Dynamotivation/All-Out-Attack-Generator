@@ -24,7 +24,8 @@ If I forgot to credit you or made a mistake, please reach out to me at [contact.
 [GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo"\
 [String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL"\
 [HTML5 Loading Spinner](https://marketplace.yoyogames.com/assets/630/html5-loading-spinner) by "Ogre Games Ltd."\
-[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"
+[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
+[folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"
