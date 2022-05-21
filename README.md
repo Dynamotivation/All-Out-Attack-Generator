@@ -8,20 +8,22 @@ For faster responses, staying up to date and further discussion join the [Discor
 # Additional credits
 If I forgot to credit you or made a mistake, please reach out to me at [contact.dynamotivation@gmail.com](mailto:contact.dynamotivation@gmail.com).
 
-# Inspiration & Assets
+## Inspiration & Assets
 ### [MIT License](https://opensource.org/licenses/MIT)
 ["Mix and Jam"'s All-Out Attack in Unity](https://github.com/mixandjam/Persona-AllOut)
 
 ### [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
-[Zilla Slab](https://fonts.google.com/specimen/Zilla+Slab) by "Mozilla"
+[Zilla Slab](https://fonts.google.com/specimen/Zilla+Slab) by Mozilla
 
-# Translations
+## Translations
 ### Big thanks and shout out to our community providing translations and staying anonymous, we see you!
 German by Anonymous and Dynamotivation\
 Spanish by Anonymous\
 French by Anonymous
 
-# Code & Extentions
+## Code & Extentions
+[Translation Script](https://pastebin.com/HjxsVi49) by [Thomas "Blobfish" Gervraud](https://www.youtube.com/c/blobfishdev)\
+
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
 [Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond"\
@@ -39,7 +41,7 @@ French by Anonymous
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"
 
-## Optional downloadable content credits (Windows only)
+## Optional Modules (Windows only)
 ### [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 [FFmpeg Project](http://ffmpeg.org/) as found [here](https://github.com/Dynamotivation/FFmpeg)
 
