@@ -12,6 +12,15 @@ If I forgot to credit you or made a mistake, please reach out to me at [contact.
 ### [MIT License](https://opensource.org/licenses/MIT)
 ["Mix and Jam"'s All-Out Attack in Unity](https://github.com/mixandjam/Persona-AllOut)
 
+### [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+[Zilla Slab](https://fonts.google.com/specimen/Zilla+Slab) by "Mozilla"
+
+# Translations
+### Big thanks and shout out to our community providing translations and staying anonymous, we see you!
+German by Anonymous and Dynamotivation\
+Spanish by Anonymous\
+French by Anonymous
+
 # Code & Extentions
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
 [Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
