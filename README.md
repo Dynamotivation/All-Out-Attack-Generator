@@ -22,13 +22,11 @@ Spanish by Anonymous\
 French by Anonymous
 
 ## Code & Extentions
-[Translation Script](https://pastebin.com/HjxsVi49) by [Thomas "Blobfish" Gervraud](https://www.youtube.com/c/blobfishdev)\
+[Translation Script](https://pastebin.com/HjxsVi49) by [Thomas "Blobfish" Gervraud](https://www.youtube.com/c/blobfishdev)
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
 [Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
-[FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond"\
 [Simple Color Picker](https://marketplace.yoyogames.com/assets/728/simple-color-picker) by "George"\
-[Mouse 3D Interaction](https://marketplace.yoyogames.com/assets/2252/mouse-3d-interaction) by "Upset Baby Games"\
 [Gallery iOS&Android](https://marketplace.yoyogames.com/assets/3960/gallery-ios-android) by "Kaguva"\
 [Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva"\
 [Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
@@ -38,8 +36,12 @@ French by Anonymous
 [TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
 [folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
+### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula) with additional licensing negotiated
+[FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond"\
+
 ### [MIT License](https://opensource.org/licenses/MIT)
-[Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"
+[Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
+[Mouse 3D Interaction](https://marketplace.yoyogames.com/assets/2252/mouse-3d-interaction) by "Upset Baby Games"
 
 ## Optional Modules (Windows only)
 ### [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
