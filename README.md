@@ -32,12 +32,11 @@ French by Anonymous
 [Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
 [GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo"\
 [String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL"\
-[HTML5 Loading Spinner](https://marketplace.yoyogames.com/assets/630/html5-loading-spinner) by "Ogre Games Ltd."\
 [TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
 [folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula) with additional licensing negotiated
-[FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond"
+[FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond" used under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
