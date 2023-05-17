@@ -36,7 +36,7 @@ French by Anonymous
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond" used under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)\
 [Gallery iOS&Android](https://marketplace.yoyogames.com/assets/3960/gallery-ios-android) by "Kaguva" used with permission of redistribution\
 [Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution\
-[String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain\
+[String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain
 
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
