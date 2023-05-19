@@ -28,7 +28,6 @@ French by Anonymous
 [Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [Simple Color Picker](https://marketplace.yoyogames.com/assets/728/simple-color-picker) by "George"\
 [Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
-[GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo"\
 [TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
 [folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
@@ -36,6 +35,7 @@ French by Anonymous
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond" used under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)\
 [Gallery iOS&Android](https://marketplace.yoyogames.com/assets/3960/gallery-ios-android) by "Kaguva" used with permission of redistribution\
 [Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution\
+[GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo" used with permission of redistribution\
 [String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain
 
 ### [MIT License](https://opensource.org/licenses/MIT)
