@@ -25,18 +25,18 @@ French by Anonymous
 [Translation Script](https://pastebin.com/HjxsVi49) by [Thomas "Blobfish" Gervraud](https://www.youtube.com/c/blobfishdev)
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
-[Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
-[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
+[Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula) with additional licensing negotiated
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond" used under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)\
 [Gallery iOS&Android](https://marketplace.yoyogames.com/assets/3960/gallery-ios-android) by "Kaguva" used with permission of redistribution\
-[Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution\
 [GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo / EmperorCookie" used with permission of redistribution\
 [Simple Color Picker](https://marketplace.yoyogames.com/assets/728/simple-color-picker) by "George Corkery" used with permission of redistribution\
-[String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain
+[String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain\
+[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
+[Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution
 
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
