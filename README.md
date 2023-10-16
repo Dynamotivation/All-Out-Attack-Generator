@@ -26,7 +26,6 @@ French by Anonymous
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
 [Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
-[Draw Trail](https://marketplace.yoyogames.com/assets/212/draw-trail) by "Killer"\
 [folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
 
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula) with additional licensing negotiated
@@ -35,14 +34,15 @@ French by Anonymous
 [GM.JS](https://marketplace.yoyogames.com/assets/3454/gm-js) by "Chris Anselmo / EmperorCookie" used with permission of redistribution\
 [Simple Color Picker](https://marketplace.yoyogames.com/assets/728/simple-color-picker) by "George Corkery" used with permission of redistribution\
 [String Zeroes](https://marketplace.yoyogames.com/assets/157/string-zeroes) by "NAL" used as public domain\
-[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber"\
+[TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber" used with permission of redistribution\
 [Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution
 
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
 [Mouse 3D Interaction](https://marketplace.yoyogames.com/assets/2252/mouse-3d-interaction) by "Upset Baby Games"
 
-## Optional Modules (Windows only)
+## Optional Downloadable Modules (Windows only)
+These options are not included with the releases themselves due to their licenses. They will need to be downloaded as required at runtime. An internet connection is required for this step.
 ### [LGPL 2.1 License](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 [FFmpeg Project](http://ffmpeg.org/) as found [here](https://github.com/Dynamotivation/FFmpeg)
 
