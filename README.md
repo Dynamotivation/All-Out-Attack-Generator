@@ -33,6 +33,9 @@ French by Anonymous
 [TaskBar Control](https://marketplace.yoyogames.com/assets/6151/taskbar-control) by "Daniel Koerber" used with permission of redistribution\
 [Toast Message Android](https://marketplace.yoyogames.com/assets/4230/toast-message-android) by "Kaguva" used with permission of redistribution
 
+### [GMLscripts.com License](https://www.gmlscripts.com/license.html)
+[csv_to_grid](https://www.gmlscripts.com/forums/viewtopic.php?id=2081) by "Juju Adams"
+
 ### [MIT License](https://opensource.org/licenses/MIT)
 [Execute Shell](https://marketplace.yoyogames.com/assets/575/execute-shell) by "Samuel Venable"\
 [Mouse 3D Interaction](https://marketplace.yoyogames.com/assets/2252/mouse-3d-interaction) by "Upset Baby Games"
