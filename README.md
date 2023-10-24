@@ -24,10 +24,6 @@ French by Anonymous
 ## Code & Extentions
 [Translation Script](https://pastebin.com/HjxsVi49) by [Thomas "Blobfish" Gervraud](https://www.youtube.com/c/blobfishdev)
 
-### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula)
-[Android Permissions](https://marketplace.yoyogames.com/assets/4880/android-permissions) by "Roadhammer Gaming"\
-[folderPick](https://marketplace.yoyogames.com/assets/4257/folderpick) by "Roadhammer Gaming"
-
 ### [GameMaker: Marketplace EULA](https://marketplace.yoyogames.com/eula) with additional licensing negotiated
 [FXAA Shader](https://marketplace.yoyogames.com/assets/1360/fxaa-shader) by "Pyramind Beyond" used under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)\
 [Gallery iOS&Android](https://marketplace.yoyogames.com/assets/3960/gallery-ios-android) by "Kaguva" used with permission of redistribution\
